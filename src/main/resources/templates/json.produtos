@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Livro - Kotlin em ação",
+        "description": "Programação utilizando Kotlin",
+        "price": 25.00
+    },
+    {
+        "id": 2,
+        "name": "Motorola G100 - 5g",
+        "description": "Smartphone Motorola 8gb 256gb",
+        "price": 2599.99
+    },
+    {
+        "id": 3,
+        "name": "Relógio G-Shock GBA-800-1ADR",
+        "description": "Relógio digital Cassio",
+        "price": 599.99
+    },
+    {
+        "id": 4,
+        "name": "Tênis PUMA St Runner V3 L adulto-unissex",
+        "description": "Tênis para prática de corrida e caminhada",
+        "price": 379.99
+    },
+    {
+        "id": 5,
+        "name": "Fire TV Stick",
+        "description": "Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)",
+        "price": 284.05
+    },
+    {
+        "id": 6,
+        "name": "Mochila Bezzter",
+        "description": "Mochila Reforçada Executiva Escola Trabalho Viagens Masculino/Feminino",
+        "price": 56.12
+    }
+]
